@@ -1,0 +1,1 @@
+Kérj a felhasználótól egy relációs jelet, majd kérj tőle 2 számot, utána írja ki az eredményt a relációsjeltől függően (- / + *), HA nem / helytelen relációs jelet adott meg akkor írja ki, hogy A megadott relációsjel nem létezik!

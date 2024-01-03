@@ -1,0 +1,1 @@
+Kérj be a felhasználótól, hogy válasszon 2 opció közül, Fej vagy Írás, ha beírja, hogy fej akkor 50 50 % hogy jó legyen vagy rossz, ha beírja, hogy írás akkor 50 50 %, hogy jó vagy rossz, ha rossz akkor írja ki, hogy "Nem nyert, válaszod: "felhasználó választása", helyes válasz: helyes válasz"!, ha jó akkor írja  ki, hogy "Nyertél, válaszod: "Felhasználó válasza""!

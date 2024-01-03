@@ -1,0 +1,1 @@
+Kérj be a felhasználótól egy számot, 1 - 100 között, hogy találja ki, ha a megadott szám nagyobb, mint amit beírt a felhasználó, akkor írja ki, hogy: "Tipp: A gondolt szám nagyobb!", ha a gondolt szám kisebb, mint amit a beírt a felhasználó, akkor írja ki, hogy: "Tipp: Az adott szám kisebb!"

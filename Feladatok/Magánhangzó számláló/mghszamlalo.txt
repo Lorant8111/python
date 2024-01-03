@@ -1,0 +1,1 @@
+Kérj be a felhasználótól egy mondatot, ezután írja ki a beírt mondatot, utána írja ki a számláló, hogy mennyi mássalhangzó van a mondatban.
